@@ -1,0 +1,42 @@
+.h1, h1 {
+    font-size: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    margin-bottom:3%;
+    width: 10em;
+}
+
+.btn-print {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+.table {
+    margin-top: 5%;
+}
+
+.pagination {
+    list-style-position: inside;
+    display: flex;
+    list-style: none;
+    border-radius: .25rem;
+    margin-left: 50%;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: black;
+    margin-left: 10px;
+    padding: 10%;
+    font-size: 18px;
+}
+li {
+    margin-top: 30px;
+}
+button.btn.btn-new {
+    color: #fff;
+    background-color: #b6b6b6;
+    margin-left: 77%;
+}
